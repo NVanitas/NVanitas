@@ -1,4 +1,4 @@
-<h2 align="left"># Hi 👋! My name is Nicolas da Silva Santos  <br>I'm a **Full-Stack Developer** passionate about technology, specializing in **.NET Framework** and **Web Development**. Based in **Brazil**, I enjoy creating innovative and user-friendly solutions that combine functionality and design.  <br><br>## 💻 About Me  <br>- 🎓 I hold a degree in **Business Informatics** from **Fatec**.  <br>- 🌐 My expertise lies in building **responsive websites** and **modern web applications** using **.NET technologies**.  <br>- 🚀 I am always eager to learn, improve, and share my knowledge with the tech community.  <br><br>## 🚧 My Current Focus  <br>- Enhancing my **full-stack development** skills.  <br>- Tackling exciting projects with cutting-edge technologies.  <br>- Exploring more about **cloud computing** and **microservices architecture**.</h2>
+<h2 align="left">Hi 👋! My name is **Nicolas da Silva Santos**  <br>I'm a **Full-Stack Developer** passionate about technology, specializing in **.NET Framework** and **Web Development**. Based in **Brazil**, I enjoy creating innovative and user-friendly solutions that combine functionality and design.  <br><br>💻 **About Me**  <br>- 🎓 I hold a degree in **Business Informatics from Fatec.**  <br>- 🌐 My expertise lies in building **responsive websites** and **modern web applications** using .NET technologies.  <br>- 🚀 I am always eager to **learn, improve, and share my knowledge** with the tech community.  <br><br>🚧 **My Current Focus**  <br>- Enhancing my **full-stack development skills.**  <br>- Tackling exciting projects with **cutting-edge technologies.**  <br>- Exploring more about **cloud computing** and **microservices architecture.**</h2>
 
 ###
 
@@ -12,6 +12,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF2c2Fpb2cxbDlldGd4bGthYWZwYmNuYnljN296d2YycmVyZGF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iKCejlLBqcJcrw3xWG/giphy.gif"  />
 
