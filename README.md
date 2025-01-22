@@ -51,3 +51,5 @@
 <h4 align="left">🚧 My Current Focus  <br>- Enhancing my full-stack development skills.  <br>- Tackling exciting projects with cutting-edge technologies.  <br>- Exploring more about cloud computing and microservices architecture.</h4>
 
 ###
+
+<img src="https://raw.githubusercontent.com/NVanitas/NVanitas/output/snake.svg" alt="Snake animation" />
