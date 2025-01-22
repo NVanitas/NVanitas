@@ -40,11 +40,14 @@
 
 ###
 
-<h3 align="left">🚧 <strong>My Current Focus</strong>  <br>- Enhancing my <strong>full-stack development skills</strong>.  <br>- Tackling exciting projects with <strong>cutting-edge technologies</strong>.  <br>- Exploring more about <strong>cloud computing</strong> and <strong>microservices architecture</strong>.</h3>
-
-###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF2c2Fpb2cxbDlldGd4bGthYWZwYmNuYnljN296d2YycmVyZGF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iKCejlLBqcJcrw3xWG/giphy.gif"  />
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <h3 align="left">🚧 <strong>My Current Focus</strong>  <br>- Enhancing my <strong>full-stack development skills</strong>.  <br>- Tackling exciting projects with <strong>cutting-edge technologies</strong>.  <br>- Exploring more about <strong>cloud computing</strong> and <strong>microservices architecture</strong>.</h3>
+  </div>
+  <div>
+    <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF2c2Fpb2cxbDlldGd4bGthYWZwYmNuYnljN296d2YycmVyZGF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iKCejlLBqcJcrw3xWG/giphy.gif" />
+  </div>
+</div>
 
 ###
 
