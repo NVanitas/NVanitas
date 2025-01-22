@@ -52,4 +52,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NVanitas/NVanitas/output/snake.svg" alt="Snake animation" />
+
