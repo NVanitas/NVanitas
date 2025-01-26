@@ -16,18 +16,6 @@
 <h4 align="left">💻 About Me  <br>- 🎓 I hold a degree in Business Informatics from Fatec.  <br>- 🌐 My expertise lies in building responsive websites and modern web applications using .NET technologies.  <br>- 🚀 I am always eager to learn, improve, and share my knowledge with the tech community.</h4>
 
 ###
-
-<div align="left">
-  <a href="nicolasdasilvasantos04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolasdasilvasantos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -45,6 +33,17 @@
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF2c2Fpb2cxbDlldGd4bGthYWZwYmNuYnljN296d2YycmVyZGF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iKCejlLBqcJcrw3xWG/giphy.gif"  />
+
+###
+
+<div align="left">
+  <a href="mailto:nicolasdasilvasantos04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolasdasilvasantos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
